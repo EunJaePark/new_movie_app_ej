@@ -1,4 +1,4 @@
-# app
+# new_movie_app_ej
 
 ## Project setup
 ```
